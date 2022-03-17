@@ -2,4 +2,4 @@ Codetesing
 
 mini_project
 
-project_ex01 : apple / orange training
+project_EX01 : apple / orange training
