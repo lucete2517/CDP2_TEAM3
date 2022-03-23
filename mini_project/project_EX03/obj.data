@@ -1,0 +1,5 @@
+classes= 2
+train  = data/apple/train.txt
+valid  = data/apple/train.txt
+names = data/apple/obj.names
+backup = backup/
