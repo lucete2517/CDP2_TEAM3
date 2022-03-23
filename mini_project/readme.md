@@ -11,3 +11,5 @@ project_EX01 : apple / orange training
 => 실패 // training에 대해 의논해 볼 예정.
 
 project_EX02 : training 된 weight로 C#을 이용해 객체검출
+
+project_EX03 : local host에서 darknet 사용법, train.txt 만드는 py code.
