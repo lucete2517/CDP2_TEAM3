@@ -1,0 +1,403 @@
+data/fruits/example_photo/images/apple (1).jpg
+data/fruits/example_photo/images/apple (100).jpg
+data/fruits/example_photo/images/apple (101).jpg
+data/fruits/example_photo/images/apple (102).jpg
+data/fruits/example_photo/images/apple (103).jpg
+data/fruits/example_photo/images/apple (104).jpg
+data/fruits/example_photo/images/apple (105).jpg
+data/fruits/example_photo/images/apple (106).jpg
+data/fruits/example_photo/images/apple (107).jpg
+data/fruits/example_photo/images/apple (108).jpg
+data/fruits/example_photo/images/apple (109).jpg
+data/fruits/example_photo/images/apple (110).jpg
+data/fruits/example_photo/images/apple (111).jpg
+data/fruits/example_photo/images/apple (112).jpg
+data/fruits/example_photo/images/apple (113).jpg
+data/fruits/example_photo/images/apple (114).jpg
+data/fruits/example_photo/images/apple (115).jpg
+data/fruits/example_photo/images/apple (116).jpg
+data/fruits/example_photo/images/apple (117).jpg
+data/fruits/example_photo/images/apple (118).jpg
+data/fruits/example_photo/images/apple (119).jpg
+data/fruits/example_photo/images/apple (120).jpg
+data/fruits/example_photo/images/apple (121).jpg
+data/fruits/example_photo/images/apple (122).jpg
+data/fruits/example_photo/images/apple (123).jpg
+data/fruits/example_photo/images/apple (124).jpg
+data/fruits/example_photo/images/apple (125).jpg
+data/fruits/example_photo/images/apple (27).jpg
+data/fruits/example_photo/images/apple (28).jpg
+data/fruits/example_photo/images/apple (29).jpg
+data/fruits/example_photo/images/apple (30).jpg
+data/fruits/example_photo/images/apple (31).jpg
+data/fruits/example_photo/images/apple (32).jpg
+data/fruits/example_photo/images/apple (33).jpg
+data/fruits/example_photo/images/apple (34).jpg
+data/fruits/example_photo/images/apple (35).jpg
+data/fruits/example_photo/images/apple (36).jpg
+data/fruits/example_photo/images/apple (37).jpg
+data/fruits/example_photo/images/apple (38).jpg
+data/fruits/example_photo/images/apple (39).jpg
+data/fruits/example_photo/images/apple (40).jpg
+data/fruits/example_photo/images/apple (41).jpg
+data/fruits/example_photo/images/apple (42).jpg
+data/fruits/example_photo/images/apple (43).jpg
+data/fruits/example_photo/images/apple (44).jpg
+data/fruits/example_photo/images/apple (45).jpg
+data/fruits/example_photo/images/apple (46).jpg
+data/fruits/example_photo/images/apple (47).jpg
+data/fruits/example_photo/images/apple (48).jpg
+data/fruits/example_photo/images/apple (49).jpg
+data/fruits/example_photo/images/apple (50).jpg
+data/fruits/example_photo/images/apple (51).jpg
+data/fruits/example_photo/images/apple (52).jpg
+data/fruits/example_photo/images/apple (53).jpg
+data/fruits/example_photo/images/apple (54).jpg
+data/fruits/example_photo/images/apple (55).jpg
+data/fruits/example_photo/images/apple (56).jpg
+data/fruits/example_photo/images/apple (57).jpg
+data/fruits/example_photo/images/apple (58).jpg
+data/fruits/example_photo/images/apple (59).jpg
+data/fruits/example_photo/images/apple (60).jpg
+data/fruits/example_photo/images/apple (61).jpg
+data/fruits/example_photo/images/apple (62).jpg
+data/fruits/example_photo/images/apple (63).jpg
+data/fruits/example_photo/images/apple (64).jpg
+data/fruits/example_photo/images/apple (65).jpg
+data/fruits/example_photo/images/apple (66).jpg
+data/fruits/example_photo/images/apple (67).jpg
+data/fruits/example_photo/images/apple (68).jpg
+data/fruits/example_photo/images/apple (69).jpg
+data/fruits/example_photo/images/apple (70).jpg
+data/fruits/example_photo/images/apple (71).jpg
+data/fruits/example_photo/images/apple (72).jpg
+data/fruits/example_photo/images/apple (73).jpg
+data/fruits/example_photo/images/apple (74).jpg
+data/fruits/example_photo/images/apple (75).jpg
+data/fruits/example_photo/images/apple (76).jpg
+data/fruits/example_photo/images/apple (77).jpg
+data/fruits/example_photo/images/apple (78).jpg
+data/fruits/example_photo/images/apple (79).jpg
+data/fruits/example_photo/images/apple (80).jpg
+data/fruits/example_photo/images/apple (81).jpg
+data/fruits/example_photo/images/apple (82).jpg
+data/fruits/example_photo/images/apple (83).jpg
+data/fruits/example_photo/images/apple (84).jpg
+data/fruits/example_photo/images/apple (85).jpg
+data/fruits/example_photo/images/apple (86).jpg
+data/fruits/example_photo/images/apple (87).jpg
+data/fruits/example_photo/images/apple (88).jpg
+data/fruits/example_photo/images/apple (89).jpg
+data/fruits/example_photo/images/apple (90).jpg
+data/fruits/example_photo/images/apple (91).jpg
+data/fruits/example_photo/images/apple (92).jpg
+data/fruits/example_photo/images/apple (93).jpg
+data/fruits/example_photo/images/apple (94).jpg
+data/fruits/example_photo/images/apple (95).jpg
+data/fruits/example_photo/images/apple (96).jpg
+data/fruits/example_photo/images/apple (97).jpg
+data/fruits/example_photo/images/apple (98).jpg
+data/fruits/example_photo/images/apple (99).jpg
+data/fruits/example_photo/images/plum (1).jpg
+data/fruits/example_photo/images/plum (10).jpg
+data/fruits/example_photo/images/plum (100).jpg
+data/fruits/example_photo/images/plum (101).jpg
+data/fruits/example_photo/images/plum (11).jpg
+data/fruits/example_photo/images/plum (12).jpg
+data/fruits/example_photo/images/plum (13).jpg
+data/fruits/example_photo/images/plum (14).jpg
+data/fruits/example_photo/images/plum (15).jpg
+data/fruits/example_photo/images/plum (16).jpg
+data/fruits/example_photo/images/plum (17).jpg
+data/fruits/example_photo/images/plum (18).jpg
+data/fruits/example_photo/images/plum (19).jpg
+data/fruits/example_photo/images/plum (2).jpg
+data/fruits/example_photo/images/plum (20).jpg
+data/fruits/example_photo/images/plum (21).jpg
+data/fruits/example_photo/images/plum (22).jpg
+data/fruits/example_photo/images/plum (23).jpg
+data/fruits/example_photo/images/plum (24).jpg
+data/fruits/example_photo/images/plum (25).jpg
+data/fruits/example_photo/images/plum (26).jpg
+data/fruits/example_photo/images/plum (27).jpg
+data/fruits/example_photo/images/plum (28).jpg
+data/fruits/example_photo/images/plum (29).jpg
+data/fruits/example_photo/images/plum (3).jpg
+data/fruits/example_photo/images/plum (30).jpg
+data/fruits/example_photo/images/plum (31).jpg
+data/fruits/example_photo/images/plum (32).jpg
+data/fruits/example_photo/images/plum (33).jpg
+data/fruits/example_photo/images/plum (34).jpg
+data/fruits/example_photo/images/plum (35).jpg
+data/fruits/example_photo/images/plum (36).jpg
+data/fruits/example_photo/images/plum (37).jpg
+data/fruits/example_photo/images/plum (38).jpg
+data/fruits/example_photo/images/plum (39).jpg
+data/fruits/example_photo/images/plum (4).jpg
+data/fruits/example_photo/images/plum (40).jpg
+data/fruits/example_photo/images/plum (41).jpg
+data/fruits/example_photo/images/plum (42).jpg
+data/fruits/example_photo/images/plum (43).jpg
+data/fruits/example_photo/images/plum (44).jpg
+data/fruits/example_photo/images/plum (45).jpg
+data/fruits/example_photo/images/plum (46).jpg
+data/fruits/example_photo/images/plum (47).jpg
+data/fruits/example_photo/images/plum (48).jpg
+data/fruits/example_photo/images/plum (49).jpg
+data/fruits/example_photo/images/plum (5).jpg
+data/fruits/example_photo/images/plum (50).jpg
+data/fruits/example_photo/images/plum (51).jpg
+data/fruits/example_photo/images/plum (52).jpg
+data/fruits/example_photo/images/plum (53).jpg
+data/fruits/example_photo/images/plum (54).jpg
+data/fruits/example_photo/images/plum (55).jpg
+data/fruits/example_photo/images/plum (56).jpg
+data/fruits/example_photo/images/plum (57).jpg
+data/fruits/example_photo/images/plum (58).jpg
+data/fruits/example_photo/images/plum (59).jpg
+data/fruits/example_photo/images/plum (6).jpg
+data/fruits/example_photo/images/plum (60).jpg
+data/fruits/example_photo/images/plum (61).jpg
+data/fruits/example_photo/images/plum (62).jpg
+data/fruits/example_photo/images/plum (63).jpg
+data/fruits/example_photo/images/plum (64).jpg
+data/fruits/example_photo/images/plum (65).jpg
+data/fruits/example_photo/images/plum (66).jpg
+data/fruits/example_photo/images/plum (67).jpg
+data/fruits/example_photo/images/plum (68).jpg
+data/fruits/example_photo/images/plum (69).jpg
+data/fruits/example_photo/images/plum (7).jpg
+data/fruits/example_photo/images/plum (70).jpg
+data/fruits/example_photo/images/plum (71).jpg
+data/fruits/example_photo/images/plum (72).jpg
+data/fruits/example_photo/images/plum (73).jpg
+data/fruits/example_photo/images/plum (74).jpg
+data/fruits/example_photo/images/plum (75).jpg
+data/fruits/example_photo/images/plum (76).jpg
+data/fruits/example_photo/images/plum (77).jpg
+data/fruits/example_photo/images/plum (78).jpg
+data/fruits/example_photo/images/plum (79).jpg
+data/fruits/example_photo/images/plum (8).jpg
+data/fruits/example_photo/images/plum (80).jpg
+data/fruits/example_photo/images/plum (81).jpg
+data/fruits/example_photo/images/plum (82).jpg
+data/fruits/example_photo/images/plum (83).jpg
+data/fruits/example_photo/images/plum (84).jpg
+data/fruits/example_photo/images/plum (85).jpg
+data/fruits/example_photo/images/plum (86).jpg
+data/fruits/example_photo/images/plum (87).jpg
+data/fruits/example_photo/images/plum (88).jpg
+data/fruits/example_photo/images/plum (89).jpg
+data/fruits/example_photo/images/plum (9).jpg
+data/fruits/example_photo/images/plum (90).jpg
+data/fruits/example_photo/images/plum (91).jpg
+data/fruits/example_photo/images/plum (92).jpg
+data/fruits/example_photo/images/plum (93).jpg
+data/fruits/example_photo/images/plum (94).jpg
+data/fruits/example_photo/images/plum (95).jpg
+data/fruits/example_photo/images/plum (96).jpg
+data/fruits/example_photo/images/plum (97).jpg
+data/fruits/example_photo/images/plum (98).jpg
+data/fruits/example_photo/images/plum (99).jpg
+data/fruits/example_photo/images/Pomegranate001.jpg
+data/fruits/example_photo/images/Pomegranate002.jpg
+data/fruits/example_photo/images/Pomegranate003.jpg
+data/fruits/example_photo/images/Pomegranate004.jpg
+data/fruits/example_photo/images/Pomegranate005.jpg
+data/fruits/example_photo/images/Pomegranate006.jpg
+data/fruits/example_photo/images/Pomegranate007.jpg
+data/fruits/example_photo/images/Pomegranate008.jpg
+data/fruits/example_photo/images/Pomegranate009.jpg
+data/fruits/example_photo/images/Pomegranate010.jpg
+data/fruits/example_photo/images/Pomegranate011.jpg
+data/fruits/example_photo/images/Pomegranate012.jpg
+data/fruits/example_photo/images/Pomegranate013.jpg
+data/fruits/example_photo/images/Pomegranate014.jpg
+data/fruits/example_photo/images/Pomegranate015.jpg
+data/fruits/example_photo/images/Pomegranate016.jpg
+data/fruits/example_photo/images/Pomegranate017.jpg
+data/fruits/example_photo/images/Pomegranate018.jpg
+data/fruits/example_photo/images/Pomegranate019.jpg
+data/fruits/example_photo/images/Pomegranate020.jpg
+data/fruits/example_photo/images/Pomegranate021.jpg
+data/fruits/example_photo/images/Pomegranate022.jpg
+data/fruits/example_photo/images/Pomegranate023.jpg
+data/fruits/example_photo/images/Pomegranate024.jpg
+data/fruits/example_photo/images/Pomegranate025.jpg
+data/fruits/example_photo/images/Pomegranate026.jpg
+data/fruits/example_photo/images/Pomegranate027.jpg
+data/fruits/example_photo/images/Pomegranate028.jpg
+data/fruits/example_photo/images/Pomegranate029.jpg
+data/fruits/example_photo/images/Pomegranate030.jpg
+data/fruits/example_photo/images/Pomegranate031.jpg
+data/fruits/example_photo/images/Pomegranate032.jpg
+data/fruits/example_photo/images/Pomegranate033.jpg
+data/fruits/example_photo/images/Pomegranate034.jpg
+data/fruits/example_photo/images/Pomegranate035.jpg
+data/fruits/example_photo/images/Pomegranate036.jpg
+data/fruits/example_photo/images/Pomegranate037.jpg
+data/fruits/example_photo/images/Pomegranate038.jpg
+data/fruits/example_photo/images/Pomegranate039.jpg
+data/fruits/example_photo/images/Pomegranate040.jpg
+data/fruits/example_photo/images/Pomegranate041.jpg
+data/fruits/example_photo/images/Pomegranate042.jpg
+data/fruits/example_photo/images/Pomegranate043.jpg
+data/fruits/example_photo/images/Pomegranate044.jpg
+data/fruits/example_photo/images/Pomegranate045.jpg
+data/fruits/example_photo/images/Pomegranate046.jpg
+data/fruits/example_photo/images/Pomegranate047.jpg
+data/fruits/example_photo/images/Pomegranate048.jpg
+data/fruits/example_photo/images/Pomegranate049.jpg
+data/fruits/example_photo/images/Pomegranate050.jpg
+data/fruits/example_photo/images/Pomegranate051.jpg
+data/fruits/example_photo/images/Pomegranate052.jpg
+data/fruits/example_photo/images/Pomegranate053.jpg
+data/fruits/example_photo/images/Pomegranate054.jpg
+data/fruits/example_photo/images/Pomegranate055.jpg
+data/fruits/example_photo/images/Pomegranate056.jpg
+data/fruits/example_photo/images/Pomegranate057.jpg
+data/fruits/example_photo/images/Pomegranate058.jpg
+data/fruits/example_photo/images/Pomegranate059.jpg
+data/fruits/example_photo/images/Pomegranate060.jpg
+data/fruits/example_photo/images/Pomegranate061.jpg
+data/fruits/example_photo/images/Pomegranate062.jpg
+data/fruits/example_photo/images/Pomegranate063.jpg
+data/fruits/example_photo/images/Pomegranate064.jpg
+data/fruits/example_photo/images/Pomegranate065.jpg
+data/fruits/example_photo/images/Pomegranate066.jpg
+data/fruits/example_photo/images/Pomegranate067.jpg
+data/fruits/example_photo/images/Pomegranate068.jpg
+data/fruits/example_photo/images/Pomegranate069.jpg
+data/fruits/example_photo/images/Pomegranate070.jpg
+data/fruits/example_photo/images/Pomegranate071.jpg
+data/fruits/example_photo/images/Pomegranate072.jpg
+data/fruits/example_photo/images/Pomegranate073.jpg
+data/fruits/example_photo/images/Pomegranate074.jpg
+data/fruits/example_photo/images/Pomegranate075.jpg
+data/fruits/example_photo/images/Pomegranate076.jpg
+data/fruits/example_photo/images/Pomegranate077.jpg
+data/fruits/example_photo/images/Pomegranate078.jpg
+data/fruits/example_photo/images/Pomegranate079.jpg
+data/fruits/example_photo/images/Pomegranate080.jpg
+data/fruits/example_photo/images/Pomegranate081.jpg
+data/fruits/example_photo/images/Pomegranate082.jpg
+data/fruits/example_photo/images/Pomegranate083.jpg
+data/fruits/example_photo/images/Pomegranate084.jpg
+data/fruits/example_photo/images/Pomegranate085.jpg
+data/fruits/example_photo/images/Pomegranate086.jpg
+data/fruits/example_photo/images/Pomegranate087.jpg
+data/fruits/example_photo/images/Pomegranate088.jpg
+data/fruits/example_photo/images/Pomegranate089.jpg
+data/fruits/example_photo/images/Pomegranate090.jpg
+data/fruits/example_photo/images/Pomegranate091.jpg
+data/fruits/example_photo/images/Pomegranate092.jpg
+data/fruits/example_photo/images/Pomegranate093.jpg
+data/fruits/example_photo/images/Pomegranate094.jpg
+data/fruits/example_photo/images/Pomegranate095.jpg
+data/fruits/example_photo/images/Pomegranate096.jpg
+data/fruits/example_photo/images/Pomegranate097.jpg
+data/fruits/example_photo/images/Pomegranate098.jpg
+data/fruits/example_photo/images/Pomegranate099.jpg
+data/fruits/example_photo/images/Pomegranate100.jpg
+data/fruits/example_photo/images/Pomegranate101.jpg
+data/fruits/example_photo/images/Pomegranate102.jpg
+data/fruits/example_photo/images/Strawberry001.jpg
+data/fruits/example_photo/images/Strawberry002.jpg
+data/fruits/example_photo/images/Strawberry003.jpg
+data/fruits/example_photo/images/Strawberry004.jpg
+data/fruits/example_photo/images/Strawberry005.jpg
+data/fruits/example_photo/images/Strawberry006.jpg
+data/fruits/example_photo/images/Strawberry007.jpg
+data/fruits/example_photo/images/Strawberry008.jpg
+data/fruits/example_photo/images/Strawberry009.jpg
+data/fruits/example_photo/images/Strawberry010.jpg
+data/fruits/example_photo/images/Strawberry011.jpg
+data/fruits/example_photo/images/Strawberry012.jpg
+data/fruits/example_photo/images/Strawberry013.jpg
+data/fruits/example_photo/images/Strawberry014.jpg
+data/fruits/example_photo/images/Strawberry015.jpg
+data/fruits/example_photo/images/Strawberry016.jpg
+data/fruits/example_photo/images/Strawberry017.jpg
+data/fruits/example_photo/images/Strawberry018.jpg
+data/fruits/example_photo/images/Strawberry019.jpg
+data/fruits/example_photo/images/Strawberry020.jpg
+data/fruits/example_photo/images/Strawberry021.jpg
+data/fruits/example_photo/images/Strawberry022.jpg
+data/fruits/example_photo/images/Strawberry023.jpg
+data/fruits/example_photo/images/Strawberry024.jpg
+data/fruits/example_photo/images/Strawberry025.jpg
+data/fruits/example_photo/images/Strawberry026.jpg
+data/fruits/example_photo/images/Strawberry027.jpg
+data/fruits/example_photo/images/Strawberry028.jpg
+data/fruits/example_photo/images/Strawberry029.jpg
+data/fruits/example_photo/images/Strawberry030.jpg
+data/fruits/example_photo/images/Strawberry031.jpg
+data/fruits/example_photo/images/Strawberry032.jpg
+data/fruits/example_photo/images/Strawberry033.jpg
+data/fruits/example_photo/images/Strawberry034.jpg
+data/fruits/example_photo/images/Strawberry035.jpg
+data/fruits/example_photo/images/Strawberry036.jpg
+data/fruits/example_photo/images/Strawberry037.jpg
+data/fruits/example_photo/images/Strawberry038.jpg
+data/fruits/example_photo/images/Strawberry039.jpg
+data/fruits/example_photo/images/Strawberry040.jpg
+data/fruits/example_photo/images/Strawberry041.jpg
+data/fruits/example_photo/images/Strawberry042.jpg
+data/fruits/example_photo/images/Strawberry043.jpg
+data/fruits/example_photo/images/Strawberry044.jpg
+data/fruits/example_photo/images/Strawberry045.jpg
+data/fruits/example_photo/images/Strawberry046.jpg
+data/fruits/example_photo/images/Strawberry047.jpg
+data/fruits/example_photo/images/Strawberry048.jpg
+data/fruits/example_photo/images/Strawberry049.jpg
+data/fruits/example_photo/images/Strawberry050.jpg
+data/fruits/example_photo/images/Strawberry051.jpg
+data/fruits/example_photo/images/Strawberry052.jpg
+data/fruits/example_photo/images/Strawberry053.jpg
+data/fruits/example_photo/images/Strawberry054.jpg
+data/fruits/example_photo/images/Strawberry055.jpg
+data/fruits/example_photo/images/Strawberry056.jpg
+data/fruits/example_photo/images/Strawberry057.jpg
+data/fruits/example_photo/images/Strawberry058.jpg
+data/fruits/example_photo/images/Strawberry059.jpg
+data/fruits/example_photo/images/Strawberry060.jpg
+data/fruits/example_photo/images/Strawberry061.jpg
+data/fruits/example_photo/images/Strawberry062.jpg
+data/fruits/example_photo/images/Strawberry063.jpg
+data/fruits/example_photo/images/Strawberry064.jpg
+data/fruits/example_photo/images/Strawberry065.jpg
+data/fruits/example_photo/images/Strawberry066.jpg
+data/fruits/example_photo/images/Strawberry067.jpg
+data/fruits/example_photo/images/Strawberry068.jpg
+data/fruits/example_photo/images/Strawberry069.jpg
+data/fruits/example_photo/images/Strawberry070.jpg
+data/fruits/example_photo/images/Strawberry071.jpg
+data/fruits/example_photo/images/Strawberry072.jpg
+data/fruits/example_photo/images/Strawberry073.jpg
+data/fruits/example_photo/images/Strawberry074.jpg
+data/fruits/example_photo/images/Strawberry075.jpg
+data/fruits/example_photo/images/Strawberry076.jpg
+data/fruits/example_photo/images/Strawberry077.jpg
+data/fruits/example_photo/images/Strawberry078.jpg
+data/fruits/example_photo/images/Strawberry079.jpg
+data/fruits/example_photo/images/Strawberry080.jpg
+data/fruits/example_photo/images/Strawberry081.jpg
+data/fruits/example_photo/images/Strawberry082.jpg
+data/fruits/example_photo/images/Strawberry083.jpg
+data/fruits/example_photo/images/Strawberry084.jpg
+data/fruits/example_photo/images/Strawberry085.jpg
+data/fruits/example_photo/images/Strawberry086.jpg
+data/fruits/example_photo/images/Strawberry087.jpg
+data/fruits/example_photo/images/Strawberry088.jpg
+data/fruits/example_photo/images/Strawberry089.jpg
+data/fruits/example_photo/images/Strawberry090.jpg
+data/fruits/example_photo/images/Strawberry091.jpg
+data/fruits/example_photo/images/Strawberry092.jpg
+data/fruits/example_photo/images/Strawberry093.jpg
+data/fruits/example_photo/images/Strawberry094.jpg
+data/fruits/example_photo/images/Strawberry095.jpg
+data/fruits/example_photo/images/Strawberry096.jpg
+data/fruits/example_photo/images/Strawberry097.jpg
+data/fruits/example_photo/images/Strawberry098.jpg
+data/fruits/example_photo/images/Strawberry099.jpg
+data/fruits/example_photo/images/Strawberry100.jpg
