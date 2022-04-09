@@ -13,3 +13,7 @@ project_EX01 : apple / orange training
 project_EX02 : training 된 weight로 C#을 이용해 객체검출
 
 project_EX03 : local host에서 darknet 사용법, train.txt 만드는 py code.
+
+project_EX04 : class 4개, 각 class 당 100장씩 train.
+
+=> 결과에 몹시 만족 configure file의 batch와 subdevisions 중요.
