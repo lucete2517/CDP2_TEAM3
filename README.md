@@ -3,14 +3,12 @@
 
 Codetesing
 
-Project 01
+## Project 01
+no error detection
+8 Class, 1266장
+학습완료, 일정 이상 정확도 완료
 
-== no error detection
-== 8 Class, 1266장
-
-==> 학습완료, 일정 이상 정확도 완료
-
-Project02
+## Project02
 
 == black filter
 
