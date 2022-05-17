@@ -4,7 +4,7 @@
 Codetesing
 
 ## Project 01
-no error detection
+### no error detection
 
 8 Class, 1266장
 
@@ -12,6 +12,6 @@ no error detection
 
 ## Project02
 
-black filter
+### black filter
 
 8 Class, 1266장
