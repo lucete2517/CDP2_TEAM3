@@ -15,3 +15,21 @@ Codetesing
 ### no error detection + black filter
 
 8 Class, 1266장
+
+## Project03
+
+### no error detection + gaussian filter
+
+8 Class, 1266장
+
+## Project04
+
+### no error detection + gaussian + threshold filter
+
+8 Class, 1266장
+
+## Project05
+
+### no error detection + threshold filter
+
+8 Class, 1266장
