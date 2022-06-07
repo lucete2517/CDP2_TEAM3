@@ -1,0 +1,5 @@
+classes = 8
+train  = data/project02/train.txt
+valid  = data/project02/train.txt
+names = data/project02/obj.names
+backup = backup/
